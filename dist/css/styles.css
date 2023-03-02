@@ -11467,8 +11467,8 @@ section.FIRSTresume-section .FIRSTresume-section-content {
 
 
 .back{
-    width:1137px;
-    height:400px;
+    width:137px;
+    height:40px;
     background-image:linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)),url('background.png');
 
     -webkit-mask-image: -webkit-linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0,1));
@@ -11477,12 +11477,5 @@ section.FIRSTresume-section .FIRSTresume-section-content {
         display: block;
     }
 
-
-.over{
- width:300px;
- height:300px;
-background-image:url('https://www.nasa.gov/sites/default/files/thunails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg');
-    -webkit-mask-image: -webkit-linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0,1));
-}
 
 
